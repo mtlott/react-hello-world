@@ -1,5 +1,5 @@
 {
-  "name": "react-hello-world",
+  "name": "@ex626/react-hello-world",
   "version": "0.0.1",
   "description": "React Component to display \"Hello World\". (Another Component Nobody Asked For And Nobody Wanted™)",
   "repository": "https://github.com/mtlott/react-hello-world.git",
