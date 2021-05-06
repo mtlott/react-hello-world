@@ -1,6 +1,6 @@
 {
   "name": "@mtlott/react-hello-world",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React Component to display \"Hello World\". (Another Component Nobody Asked For And Nobody Wanted™)",
   "repository": "https://github.com/mtlott/react-hello-world.git",
   "author": "M.T. Lott <mtlott@users.noreply.github.com>",

@@ -2,7 +2,7 @@
 
 > React Component to display \"Hello World\". (Another Component Nobody Asked For And Nobody Wanted™)
 
-[![NPM](https://img.shields.io/npm/v/react-hello-world.svg)](https://www.npmjs.com/package/react-hello-world) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@mtlott/react-hello-world.svg)](https://www.npmjs.com/package/@mtlott/react-hello-world) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
@@ -15,8 +15,7 @@ npm install --save @mtlott/react-hello-world
 ```jsx
 import React, { Component } from 'react'
 
-import HelloWorld from 'react-hello-world'
-import 'react-hello-world/dist/index.css'
+import HelloWorld from '@mtlott/react-hello-world'
 
 class Example extends Component {
   render() {
